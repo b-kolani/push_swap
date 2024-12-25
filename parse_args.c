@@ -14,7 +14,7 @@
 
 static t_stack	*parse_one_arg(char *arg)
 {
-	size_t	len;
+	int	len;
 	t_stack	*s;
 
 	s = NULL;
