@@ -39,7 +39,7 @@
 ## ⚙️ Requirements
     - OS: UNIX-based (Linux, macOS).
     - Compiler: GCC or similar.
-    - (Optional): libft if used.
+    - libft.
 
 ## 👤 Author
     [Kolani Biman / b-kolani]
